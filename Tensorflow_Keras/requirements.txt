@@ -1,2 +1,0 @@
-tensorflow==2.16.1    ## size -- 377 MB
-matplotlib==3.9.0
