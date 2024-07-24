@@ -1,0 +1,96 @@
+1. Tell us more about why you’re interested in this role:
+
+Because, I have interested to solve business problems using data and my analytical skills. Along with this my technical skills are perfectly Matching for this position, and I have been interned for 6+ months as a data scientist, where I apply various ML and DL algorithms for model building, also worked on EDA part of data, MYSQL database, Tableau for Data Visualization, and I am efficient in python.
+And it may also align with my personal interests, such as a passion for technology, statistics, or problem-solving. 
+
+2. Please share the knowledge, skills and experience you would bring to the role:
+
+I have the good understanding of Natural Language Processing (NLP) tasks such as text classification, language translation, and summarization, Predictive modeling and statistical analysis, Data visualization and data cleaning, Programming languages Python, Machine learning libraries such as scikit-learn and TensorFlow, Data Science concepts such as probability and statistics, linear algebra and optimization, Familiarity with common data science tools such as Jupyter Notebooks and Git, Tableau for data visualization and knows the basics of cloud computing with MS Azure.
+Currently, I am pursuing an internship with Ai Variant since 7+ months as a data science intern, where I applied whatever, I mentioned above and build projects such as Clustering (model prediction on global development measurement), Stock market closing price prediction (Wipro, Infosys, TMS, Reliance), and last one Water Quality Classification which is going on.
+
+3. When considering your next career move, what are the three most important job features you’re looking for?
+
+1. Growth opportunities: A role that offers opportunities for professional development, training, and advancement can be very attractive to job seekers.
+2. Work-life balance: A job that allows for a healthy balance between work and personal life can be desirable, as it can help to reduce stress and improve overall well-being.
+3. Job fit: Job seekers often look for roles that align with their skills, interests, and values. A job that is a good fit can be more satisfying and motivating.
+
+4. Why are you good fit for this role?
+
+Because I have the solid understanding of Data Science concepts, hands-on experience working with clustering, classification, and NLP projects, as well as 9 months of internship experience as a data science intern, I believe that I am well-suited for a data scientist role. My internship experience allowed me to work on real-world projects and apply the theoretical knowledge I gained in a practical setting, which has helped me develop strong analytical and problem-solving skills. Moreover, I have experience working with various programming languages and tools such as Python, Machine Learning, Deep Learning, Mysql, Tableau, and basics concepts of MS Azure and Big Data which enables me to work efficiently and effectively. As a result, I am confident in my ability to work collaboratively with cross-functional teams to identify business problems, formulate data-driven solutions, and drive positive outcomes.
+
+5. Tell me about yourself?
+Currently, I am in B.Tech final year studying computer science engineering. I have the good knowledge of Python,  Mysql, Machine Learning, Deep Learning, NLP, data analysis, Tableau for data visualization and basic concepts of MS Azure and Big Data (hadoop). I have 9 months internship experience in Data Science at Ai Variant company, where I gained hands-on experience in data preprocessing, feature engineering, and model building. Now, I am looking for a full-time job in the field of Data Science or Machine Learning or Data Analytics. My skills also include programming in C and Data Structures and Algorithms.
+
+
+6. Application
+
+Subject: Referral Request for [Specific Job Opening] 
+
+Hii Sir,
+
+I hope this message finds you well. I am reaching out to express my interest in the recent openings Analyst- Data Science at American Express and am eager to apply my skills and experience to contribute to your esteemed team. I have 8 months of Work Experience as an Associate Data Scientist at Celebal Technologies.
+
+Having thoroughly reviewed the job description, I am confident that my background in [relevant skills/experience] aligns seamlessly with the outlined requirements. My extensive experience in [Python, ML, DL, NLP, Generative AI, LLM, Azure] has equipped me with the necessary expertise to excel in this role.
+
+I would greatly appreciate your support in providing a referral for my application. To streamline the process, I have attached my resume for your reference. You can find more details about the position Job link:[https://aexp.eightfold.ai/careers/job/19512013?domain=aexp.com&utm_source=linkedin ]
+
+Thank you for considering my request, and I look forward to the possibility of contributing to the success of American Express.
+
+Best Regards,
+Shrawan Kumar Kumawat
+Notice Period: Immediate Joinner
+Experienece : 8 months
+Email : shrawan662000@gmail.com
+contact number:  7891763203
+
+
+7. Subject: Application for Data Scientist / AI-ML Engineer Position
+
+Dear Hiring Team,
+
+I trust this message finds you well. I am writing to express my interest in the Data Scientist / AI-ML Engineer positions at AAPMOR Technologies. With 8 months of experience as an Associate Data Scientist at Celebal Technologies, I am eager to bring my skills and expertise to your esteemed team.
+
+After carefully reviewing the job description, I am confident that my proficiency in Python, SQL, ML, DL, NLP, Generative AI, Prompt Engineering, LLM, and Azure aligns seamlessly with the outlined requirements.
+
+I have attached my resume for your reference, and I am available for a detailed discussion at your earliest convenience. Thank you for considering my application. I look forward to the opportunity to contribute to the success of AAPMOR Technologies.
+
+Best Regards,
+Shrawan Kumar Kumawat
+Notice Period: Immediate (less than 15 days)
+Experience: 8 months
+Email: shrawan662000@gmail.com
+Contact Number: 7891763203
+
+
+7. Cover letter
+
+Dear Sir,
+
+I am excited to apply for the opened position at your organization. With a robust background in Data Science, highlighted by successful projects at Celebal Technologies and AI Variant, I am eager to bring my analytical skills to your esteemed organization.
+
+In my role as a Data Scientist, I mastered end-to-end machine learning model development, data analysis, and led impactful projects. My technical expertise includes Machine Learning, Natural Language Processing, Deep learning, Computer Vision, Generative AI, Langchain, LLMs and proficiency in Python, SQL, and Azure services.
+
+Enclosed is my resume for your consideration. I am confident that my skills align with the needs of your organization and I am enthusiastic about contributing to your team. I can be reached via email at [shrawan662000@gmail.com] or by phone at [+91 7891763203].
+
+Thank you for your time and consideration. I look forward to the opportunity to discuss my candidacy further.
+
+Sincerely,
+
+Shrawan Kumar Kumawat
+
+
+8. Question : What interests you about working for this company?
+    Answer    : I am particularly drawn to the innovative technological landscape at your company, specifically in the realm of cutting-edge technologies such as AI, Generative AI, and ML. Having cultivated expertise in these domains, I bring nearly one year of hands-on experience in Data Science. What particularly resonates with me is the alignment between my skill set and the requirements outlined by your organization. I am enthusiastic about the prospect of applying my skills and contributing to the growth of your company.
+
+9. new email method
+
+Subject: Application for {{JOB_TITLE}} role at {{COMPANY_NAME}}
+Dear Hiring Team,
+
+I hope this message finds you in good spirits.
+
+My name is {{USER_FIRSTNAME}}, and I'm excited to submit my application for the {{JOB_TITLE}} position at {{COMPANY_NAME}}. With my specialized skills and experience in this industry, I am confident in my ability to bring a fresh perspective and make a meaningful impact on your company.
+
+I have been attached my resume for your better understanding about me. I look forward to the possibility of discussing how my unique skills align with {{COMPANY_NAME}}'s goals.
+
+Best regards, {{USER_FIRSTNAME}} {{USER_LASTNAME}}
